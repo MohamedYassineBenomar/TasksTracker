@@ -1,0 +1,47 @@
+h1 {
+    text-align: center;
+}
+input {
+    font-size: 20px;
+}
+
+button {
+    font-size: 13px;
+    background-color: blue;
+    color: white;
+    padding: 10px;
+}
+
+#tasks-container {
+    display: flex;
+    flex-direction: column;
+
+}
+
+.tasks {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.uniTasks {
+    background-color: aquamarine;
+    padding: 20px;
+    border: 1px bold black;
+}
+
+.duoTasks {
+    background-color: rgb(255, 255, 127);
+    padding: 20px;
+    border: 1px bold black;
+}
+
+#content-section {
+
+    margin-top: 10px;
+}
+
+.removeBtns {
+
+    width: 80px;
+}
