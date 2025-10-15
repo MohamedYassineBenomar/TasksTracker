@@ -6,7 +6,7 @@ input {
 }
 
 button {
-    font-size: 13px;
+    font-size: 20px;
     background-color: blue;
     color: white;
     padding: 10px;
@@ -22,6 +22,7 @@ button {
     display: flex;
     flex-direction: column;
     gap: 10px;
+    font-size: 25px;
 }
 
 .uniTasks {
@@ -43,5 +44,5 @@ button {
 
 .removeBtns {
 
-    width: 80px;
+    width:100px;
 }
